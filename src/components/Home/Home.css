@@ -1,0 +1,9 @@
+.home-content-style{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 5% 10% 2% 15%;
+}
+.product-description{
+    width: 60%;
+}

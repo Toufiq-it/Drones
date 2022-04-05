@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "01",
+        "name" : "Brad R.",
+        "text" : "Review : I love it so far. The only reason I am docking 1 star is because it doesn't always 100 percent hit the return to home spot every time. When it does though it is spot on. Very fun to fly. You are responsible for following the rules instead of them trying to do it for you.",
+        "rating" : 5
+    },
+    {
+        "id" : "02",
+        "name" : "Aaron S.",
+        "text" : "Review : I love this drone best drone that I have ever has right out of the box noticed how heavy it was and sturdy love how it fly's in the wind and the video is amazing love the 8X zoom and the range is amazing",
+        "rating" : 4.9
+    },
+    {
+        "id" : "03",
+        "name" : "Charies Floyd",
+        "text" : "Autel Evo is the Best quad of 2018, the best of my twelve quads.Talked to Autel factory they don't understand why I did not get a handbag with my drone they are saying that all drones should have one as they are shipped from the factory with one",
+        "rating" : 4.5
+    },
+    {
+        "id" : "04",
+        "name" : "Aaron lith",
+        "text" : "Review : Battery charges OK , as soon as powering battery when in drone , just 1 of LED starts blinking but drone doesnt power on .Now battling with Amazon trying to return back to US from UK.",
+        "rating" : 4.8
+    },
+    {
+        "id" : "05",
+        "name" : "Mary Cary",
+        "text" : "Came unworkable with broken buttons. But easy to return.This is a great drone. No runaways. Nice size fold up drone. Battery life is good . It flies incredibly stable. Return to home and auto land is incredible !!!",
+        "rating" : 5
+    },
+    {
+        "id" : "06",
+        "name" : "Brian Carison",
+        "text" : "I really like the way it handles. I'm unhappy with the way it was delivered. It had a broken record button on the remote and when using the app with phone I can't see live image. Also it does not fly more than a mile but must be the area I'm in. I bought some antenna started extenders and it gave me a little more range.",
+        "rating" : 5
+    }
+]
