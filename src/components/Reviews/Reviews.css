@@ -1,0 +1,7 @@
+.review-container{
+    grid-gap: 45px;
+    display: grid;
+    gap: 45px;
+    grid-template-columns: repeat(3,1fr);
+    margin: 2% 10% 2% 15%;
+}

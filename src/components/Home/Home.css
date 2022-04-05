@@ -7,3 +7,24 @@
 .product-description{
     width: 60%;
 }
+.home-review-style{
+    text-align: center;
+}
+.review-container{
+    grid-gap: 45px;
+    display: grid;
+    gap: 45px;
+    grid-template-columns: repeat(3,1fr);
+    margin: 2% 10% 2% 15%;
+}
+.see-all-reviews-btn {
+    background-color: #046d41;
+    border: 0;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 3% 0 10%;
+    padding: 10px 15px;
+}
+

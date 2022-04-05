@@ -1,7 +1,10 @@
 import React from 'react';
+import useReviews from '../../hooks/useReviews';
+import Cart from '../Carts/Cart';
 import './Home.css';
 
 const Home = () => {
+    const [reviews , setReviews] = useReviews();
     return (
         <div>
             <div className='home-content-style'>
@@ -16,12 +19,15 @@ const Home = () => {
             <div className='home-review-style'>
                 <h2>User Reviews</h2>
                 <div className='review-container'>
-                    <div></div>
-                    <div></div>
-                    <div></div>
+                    {
+                        reviews.map(review => <Cart
+                        key={review.id}
+                        review={review}
+                        ></Cart>)
+                    }
                 </div>
-                <a href="">
-                    <button></button>
+                <a href="/reviews">
+                    <button className='see-all-reviews-btn'>See All Reviews</button>
                 </a>
             </div>
         </div>

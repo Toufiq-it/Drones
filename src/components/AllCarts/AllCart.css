@@ -1,0 +1,23 @@
+.review-cart{
+    background-color: #e4eaeb;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: 5px 10px #888;
+    font-family: Monaco;
+    line-height: 25px;
+    padding: 15px;
+    text-align: justify;
+    width: 250px;
+    height: 375px;
+}
+
+.review-rating {
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+    width: auto;
+}
+
+.review-cart-name {
+    font-size: large;
+}
