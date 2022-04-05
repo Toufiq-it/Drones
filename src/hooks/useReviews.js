@@ -6,7 +6,7 @@ const useReviews = () => {
     useEffect(()=>{
         fetch('reviews.json')
         .then(res => res.json())
-        .then(data => setReviews(data));
+        .then(data => setReviews(data.slice(3)));
     },[]);
 
     return [reviews , setReviews];

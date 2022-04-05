@@ -4,7 +4,8 @@ import './About.css'
 const About = () => {
     return (
         <div className='about'>
-            <h2>This is about page</h2>
+            <h2>Toufiq Islam</h2>
+            <a href="https://www.facebook.com/toufikit/" target="_blank" rel="noopener noreferrer">This is the contract id</a>
         </div>
     );
 };
