@@ -1,0 +1,11 @@
+.chart-alignment{
+    grid-gap: 45px;
+    display: grid;
+    gap: 45px;
+    grid-template-columns: repeat(2,1fr);
+    margin: 10% 5% 2%;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
